@@ -146,6 +146,7 @@ Decide on whether you want to use VMs in the cloud (Digital Ocean) or locally (V
 **Using Digital Ocean / Cloud platforms:**
 
 Spawn an Ubuntu 20.04 Linux Virtual Machine using the web GUI.
+In digital ocean, these are called droplets.
 Find the IP address of your virtual machine, and the username so you can log in with SSH.
 For example, in Digital Ocean, the username is `root`, and the IP might be `128.199.44.119` (found in top left of droplet screen as "ipv4"):
 
